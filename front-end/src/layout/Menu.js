@@ -7,7 +7,7 @@ import { Link } from "react-router-dom";
  *
  * @returns {JSX.Element}
  */
-
+//Link menu here that is used within a Nav element, inside of HTML5 these Nav elements have great positioning and functionality to work with the flow of the readers/users eyes and to naturally appease the interest and overall experience of the user
 function Menu() {
   return (
     <nav className="navbar navbar-dark align-items-start p-0">
