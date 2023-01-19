@@ -5,8 +5,8 @@ Periodic Tables is a restaurant reservation booking and table management system.
 
 #
 ## Active Example
-* Vercel.com(fronend): 
-* Render.com(backend): 
+* Render.com(fronend):https://macislyfe-restaurant-reservation-frontend.onrender.com 
+* Render.com(backend): https://macislyfe-restaurant-reservation-backend.onrender.com
 * Github Code: https://github.com/MacIsLyfe/restaurant-reservation-app.git
 
 ## Technologies used
