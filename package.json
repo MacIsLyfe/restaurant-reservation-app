@@ -46,9 +46,13 @@
     "test:frontend:watch": "npm test --prefix ./front-end"
   },
   "keywords": [],
-  "author": "Thinkful, Inc.",
+  "author": "Mac Cooke",
   "license": "UNLICENSED",
   "dependencies": {
-    "knex": "^2.4.1"
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "knex": "^2.4.1",
+    "vercel": "^28.12.8"
   }
 }
